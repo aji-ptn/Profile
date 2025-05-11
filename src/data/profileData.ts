@@ -52,10 +52,10 @@ export interface ProfileData {
 }
 
 const profileData: ProfileData = {
-  name: "Alex Morgan",
+  name: "Aji Pamungkas Tri Nurcahyo",
   title: "Software Engineer",
   tagline: "Building innovative digital experiences with clean, efficient code",
-  email: "alex.morgan@example.com",
+  email: "ajipamungkastn@gmail.com",
   phone: "+1 (555) 123-4567",
   location: "San Francisco, CA",
   avatar: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
